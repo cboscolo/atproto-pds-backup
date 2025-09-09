@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:wtk7wq3y3i64z3umv44eutuj",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shb54hTooamG8BmJ8gVa9K5pbZcaAweBKqfGwT7X9F92mZ"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://boscolo.co"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://inkcap.us-east.host.bsky.network"
+    }
+  }
+}

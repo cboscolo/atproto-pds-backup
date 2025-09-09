@@ -1,0 +1,72 @@
+{
+  "handle": "boscolo.bsky.social",
+  "prev": null,
+  "recoveryKey": "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+  "service": "https://bsky.social",
+  "sig": "7YKP9udmm5nMYq7iNbVaRTPRzI4aznAX9rFj5xbOH35E_LqwLnj6Ml95JQwYD79IbUf9FL4oE5RsY6fDrzs9ug",
+  "signingKey": "did:key:zQ3shP5TBe1sQfSttXty15FAEHV1DZgcxRZNxvEWnPfLFwLxJ",
+  "type": "create"
+}
+{
+  "alsoKnownAs": [
+    "at://boscolo.bsky.social"
+  ],
+  "prev": "bafyreifu2x5ug6g2hxgo5dfphbfe5cl5r3ldgj3nw5fx25vhkmnilittky",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "rNYba08FJifVqD1HRJjnFvDoFG2Jkgkyslzym84ruX9hJJs68Dfwser0AMlim21VwMt-ODofet7AY22son2VMg",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://boscolo.co"
+  ],
+  "prev": "bafyreie6r4pr6prjx7x3uz5wvem3wqbsfvwjh6pvmqtj3qroh3crb7sqbe",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "Rpqhp_C0-mqTEt5kQnEy18VVTDLoJnojLI5zKp9SfDl2lVsGSDFY-tGkNP6FGLlZS7uvRuydXvLxxjUEp3l1mw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://boscolo.co"
+  ],
+  "prev": "bafyreibeqcmagoigrdbb6pdo7vtqd6csw6lmvrg3awlcmms2o3tvzkezcm",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "UMYU1TOv_MNz1tFAG2ww7WWUoHB7CBsm5kNC0iIyH9JlnrXTegyLamCQ5vyR-ACYy5auNvd6KJndA6LItG954g",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shb54hTooamG8BmJ8gVa9K5pbZcaAweBKqfGwT7X9F92mZ"
+  }
+}

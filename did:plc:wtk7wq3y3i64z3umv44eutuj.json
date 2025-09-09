@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:plc:wtk7wq3y3i64z3umv44eutuj",
+  "alsoKnownAs": [
+    "at://boscolo.co"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:plc:wtk7wq3y3i64z3umv44eutuj#atproto",
+      "type": "Multikey",
+      "controller": "did:plc:wtk7wq3y3i64z3umv44eutuj",
+      "publicKeyMultibase": "zQ3shb54hTooamG8BmJ8gVa9K5pbZcaAweBKqfGwT7X9F92mZ"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://inkcap.us-east.host.bsky.network"
+    }
+  ]
+}
